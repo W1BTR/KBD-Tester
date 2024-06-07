@@ -1,5 +1,6 @@
 Testing tool for the popular KBD command line utility that allows reading keyboard inputs into the console window (an alternative to choice that allows special characters, arrow keys, caps, etc).
 Windows only, but you wouldnt exactly be testing kbd.exe on linux, would you?
+
 ![image](https://github.com/W1BTR/KBD-Tester/assets/164893442/93d39d94-37e3-444e-b48c-a8027de02f6a)
 
 kbd is not and cannot be used as a keylogger, as it only listens for keys sent to the console.
